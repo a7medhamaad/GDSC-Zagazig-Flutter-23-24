@@ -7,3 +7,9 @@ void main() {
 
   print("Time taken to reach the office: ${timeInMinutes.toStringAsFixed(2)} minutes");
 }
+//######################################################
+//Problem 7:
+// Suppose your distance to the office from home is 25 km and 
+//you travel 40 km per hour. Write a program to calculate time 
+//taken to reach the office in minutes. 
+//Formula= (distance) / (speed
