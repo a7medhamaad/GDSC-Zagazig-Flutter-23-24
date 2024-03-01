@@ -21,7 +21,7 @@ void main() {
 }
 
 
-//$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+//$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 //problem 1. Shopping Cart
 //Create a function calculateTotalPrice(cart) that takes a Map
 //representing a shopping cart(item name as key, Prices as value)
