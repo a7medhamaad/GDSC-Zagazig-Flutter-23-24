@@ -21,3 +21,9 @@ void main() {
   print("Average Rating 1: $averageRating1");
   print("Average Rating 2: $averageRating2");
 }
+
+//#####################################################################
+//problem 2. Movie Ratings
+//Create a function findAverageRating(ratings) that takes a List of
+//movie ratings(integers 1 - 5) and returns the average rating.If the
+//List is empty, return null.
