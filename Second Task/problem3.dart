@@ -41,3 +41,11 @@ void main() {
   print("Analysis 1: $analysis1");
   print("Analysis 2: $analysis2");
 }
+//###############################################################################
+//problem 3. Student Grades
+//Create a function analyzeGrades(grades) that takes a List of
+//student grades(integers 0 - 100) and returns a Map containing
+//statistics : number of students, average grade, number of
+//Valedictorian students(الدحيحه الطالب(if student’s degree above 85,
+//    and number of Failed students(هللا على اللي الطالب(if student’s degree
+//        below 40. Handle cases where the grades List is empty.
